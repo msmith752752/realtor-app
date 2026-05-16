@@ -38,7 +38,7 @@ function App() {
                 Bedrooms: ${bedrooms}
                 Bathrooms: ${bathrooms}
                 Key Features: ${features}
-                Make it engaging, professional, and around 150 words.`
+                Make it engaging, professional, and around 150 words. Do not use markdown formatting like ** for bold.`
             }
           ]
         })
